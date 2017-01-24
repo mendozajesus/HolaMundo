@@ -10,7 +10,7 @@ namespace HolaMundo
     {
         static void Main(string[] args)
         {
-
+            System.Windows.Forms.MessageBox.Show("Test");
         }
     }
 }
